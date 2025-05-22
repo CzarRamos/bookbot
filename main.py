@@ -5,7 +5,6 @@ from stats import get_character_count_dict
 def get_book_text(file_path):
     with open(file_path) as f:
         file_contents = f.read()
-        # print(f.read())
         return file_contents
     
 def main():

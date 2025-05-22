@@ -1,3 +1,3 @@
 # bookbot
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+A small program that takes in a file (such as a .txt file) and output its word count.
